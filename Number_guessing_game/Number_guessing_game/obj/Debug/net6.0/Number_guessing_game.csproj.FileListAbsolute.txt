@@ -1,0 +1,15 @@
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\bin\Debug\net6.0\Number_guessing_game.exe
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\bin\Debug\net6.0\Number_guessing_game.deps.json
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\bin\Debug\net6.0\Number_guessing_game.runtimeconfig.json
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\bin\Debug\net6.0\Number_guessing_game.dll
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\bin\Debug\net6.0\Number_guessing_game.pdb
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\Number_guessing_game.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\Number_guessing_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\Number_guessing_game.AssemblyInfoInputs.cache
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\Number_guessing_game.AssemblyInfo.cs
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\Number_guessing_game.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\Number_guessing_game.dll
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\refint\Number_guessing_game.dll
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\Number_guessing_game.pdb
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\Number_guessing_game.genruntimeconfig.cache
+C:\Users\User\Documents\C#\Number_guessing_game\Number_guessing_game\obj\Debug\net6.0\ref\Number_guessing_game.dll
